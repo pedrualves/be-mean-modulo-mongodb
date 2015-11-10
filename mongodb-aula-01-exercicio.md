@@ -7,7 +7,6 @@ MacBook-Pro-de-Pedro:bin pedroalves$ ./mongoimport --db be-mean --collection res
 2015-11-09T21:31:22.005-0200	connected to: localhost
 2015-11-09T21:31:22.006-0200	dropping: be-mean.restaurantes
 2015-11-09T21:31:22.704-0200	imported 25359 documents
-MacBook-Pro-de-Pedro:bin pedroalves$ 
 
 ## Contando os restaurantes
 
